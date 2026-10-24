@@ -171,3 +171,15 @@ Mini-Upwork/
 │       ├── index.html
 │       ├── css/
 │       └── js/
+```
+## 10. Project Plan
+
+The project implementation plan is managed using Google Sheets.
+
+- **Project:** Mini-Upwork – Freelance Marketplace Platform
+- **Duration:** 5 weeks
+- **Team members:** Cẩm Tú, Đăng Trường, Quốc Tuấn
+
+**Detailed Project Plan:** [View Mini-Upwork Project Plan](https://docs.google.com/spreadsheets/d/1NtszzD5xHr5yglNOeagm2kbfuEe2kf_bbIoYmq8moi8/edit?gid=1115838130#gid=1115838130)
+
+The project plan includes sprint schedules, task assignments, deadlines, milestones, and deliverables for each phase of the project.
