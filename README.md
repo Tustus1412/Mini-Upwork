@@ -188,6 +188,6 @@ The project plan includes sprint schedules, task assignments, deadlines, milesto
 
 The project documentation and reference materials are stored in Google Drive.
 
-**Document Repository:** [View Mini-Upwork Documentation](https://drive.google.com/drive/folders/1PABLZ7oXI8rx9dFa32HzLg8N__WMxwBM)
+**Document Repository:** [View Mini-Upwork Documentation](https://drive.google.com/drive/folders/1PURJHykRhRGSiQa5x-RwmmQYqLuexJcl?usp=drive_link)
 
 The folder contains project-related documents and reference materials used throughout the development process.
