@@ -183,3 +183,11 @@ The project implementation plan is managed using Google Sheets.
 **Detailed Project Plan:** [View Mini-Upwork Project Plan](https://docs.google.com/spreadsheets/d/1NtszzD5xHr5yglNOeagm2kbfuEe2kf_bbIoYmq8moi8/edit?gid=1115838130#gid=1115838130)
 
 The project plan includes sprint schedules, task assignments, deadlines, milestones, and deliverables for each phase of the project.
+
+## 11. Documentation
+
+The project documentation and reference materials are stored in Google Drive.
+
+**Document Repository:** [View Mini-Upwork Documentation](https://drive.google.com/drive/folders/1PABLZ7oXI8rx9dFa32HzLg8N__WMxwBM)
+
+The folder contains project-related documents and reference materials used throughout the development process.
